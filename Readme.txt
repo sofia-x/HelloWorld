@@ -1,1 +1,3 @@
-This is a test :)
+This is some test text :)
+
+Playing with git & github
