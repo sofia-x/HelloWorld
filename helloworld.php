@@ -14,3 +14,4 @@ public function Write($test)
 
 $writer = new Writer();
 echo $writer->Write("meow");
+echo $writer->Write("hello world");
